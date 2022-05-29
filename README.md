@@ -1,2 +1,2 @@
-# devops_basic_pavelsankipjonoks
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Pāvels Ankipjonoks DevOps repozitorijs pamati iesācējiem
